@@ -1,3 +1,10 @@
+Programming assignment from the Johns Hopkins University course "R-programming"
+
+The instruction for the assignment is written in this README file
+
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
